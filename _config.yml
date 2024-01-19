@@ -12,3 +12,6 @@ aux_links:
 #
 # Supports true (default) or false
 heading_anchors: true
+
+# Changing colors
+$link-color: $blue-000;
