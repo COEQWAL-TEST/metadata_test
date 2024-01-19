@@ -13,3 +13,5 @@ aux_links:
 # Supports true (default) or false
 heading_anchors: true
 
+# use custom css scheme
+color_scheme: coeqwal
