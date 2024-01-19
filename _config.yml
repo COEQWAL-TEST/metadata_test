@@ -14,4 +14,4 @@ aux_links:
 heading_anchors: true
 
 # Changing colors
-link-color: $blue-000;
+accent_color: rgb(79,177,186)
