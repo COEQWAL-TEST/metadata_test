@@ -13,5 +13,3 @@ aux_links:
 # Supports true (default) or false
 heading_anchors: true
 
-# Changing colors
-accent_color: rgb(79,177,186)
