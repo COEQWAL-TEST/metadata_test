@@ -1,3 +1,9 @@
+# COEQWAL Metadata Test
+
+This is a first try at developing documentation for COEQWAL. This repo is using a Jekyll's docs free template. The rest of the README is the documentation of the template that is being kept for now in case it's useful during the intial set up. It's to be removed shortly. 
+
+[//]: contributor-faces
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
