@@ -5,7 +5,14 @@ This is a first try at developing documentation for COEQWAL. This repo is using 
 
 ## Contributors
 
-[//]: contributor-faces
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 # just-the-docs-template
 
