@@ -14,12 +14,4 @@ This is a *first attempt* at creating a comprehensive documentation site for [CO
 
 The wider aim is to support the transparency and reproducibility of the project. 
 
-#### Thank you to the contributors of COEQWAL-TEST!
 
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"></a>
-  </li>
-{% endfor %}
-</ul>
