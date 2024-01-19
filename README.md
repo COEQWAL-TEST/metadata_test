@@ -1,12 +1,9 @@
+
 # COEQWAL Metadata Test
 
 This is a first try at developing documentation for COEQWAL. This repo is using a Jekyll's docs free template. The rest of the README is the documentation of the template that is being kept for now in case it's useful during the intial set up. It's to be removed shortly. 
 
 ## Contributors
-
-[//]: contributor-faces
-
-<a href="https://github.com/COEQWAL-TEST/metadata_test/"><img src="https://avatars.githubusercontent.com/u/892048?v=3" title="ngryman" width="80" height="80"></a>
 
 [//]: contributor-faces
 
