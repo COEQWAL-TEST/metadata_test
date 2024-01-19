@@ -5,6 +5,8 @@ This is a first try at developing documentation for COEQWAL. This repo is using 
 
 ## Contributors
 
+Testing adding contributors list
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
