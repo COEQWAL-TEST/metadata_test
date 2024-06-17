@@ -8,7 +8,7 @@ nav_order: 1
 
 # Scenarios
 
-| Scenario      | Regulation    | Minimum flow  | 
-| ------------- | ------------- | ------------- |
-| 1             | 0             |    0          |
+| Scenario      | Regulation    | Minimum flow  | Priority     | Demands      | Carry Over   | Description |
+| ------------- | ------------- | ------------- |------------- |------------- |------------- |------------- |
+| 1             | 0             |    0          | 0            | 0            | 0            | this is an example descrition|
 | 2             |               |
